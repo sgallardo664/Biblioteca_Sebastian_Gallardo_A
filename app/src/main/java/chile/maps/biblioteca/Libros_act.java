@@ -14,7 +14,7 @@ public class Libros_act extends AppCompatActivity {
     private Spinner spn;
     private TextView tv;
     private EditText et1, et2;
-    private String[] precios = new String[]{"5000", "12000", "25000"};
+    private String[] precios = new String[]{"5000", "12000", "25000", "123", "113234678891011121314151617181920212222324"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
